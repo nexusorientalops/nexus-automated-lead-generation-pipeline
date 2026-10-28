@@ -1,7 +1,7 @@
 # 🛰️ Nexus Automated Lead Extraction System
 ### Production-Grade Streamlit Interface & High-Fidelity Local Directory Ingestion Framework
 
-An production-stable data engineering framework that completely bypasses rigid API access blocks by leveraging human-imitation request layers and dynamic HTML parsing modules to ingest live unstructured directory listings directly into memory-isolated data frame vectors, compiling fully auto-fitted Excel spreadsheets out of thin air.
+A production-stable data engineering framework that completely bypasses rigid API access blocks by leveraging human-imitation request layers and dynamic HTML parsing modules to ingest live unstructured directory listings directly into memory-isolated data frame vectors, compiling fully auto-fitted Excel spreadsheets out of thin air.
 
 ---
 
