@@ -24,6 +24,7 @@ To run this modular web app asset locally inside an isolated engineering sandbox
 
 pip install streamlit requests beautifulsoup4 pandas openpyxl
 streamlit run app.py
+
 ---
 🏆 SYSTEM STATUS: 100% Data Fidelity Sustained across local parsing arrays. Managed by Nexus Oriental Core Framework.
 
