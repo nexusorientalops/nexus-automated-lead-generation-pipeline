@@ -21,7 +21,6 @@ A production-stable data engineering framework that completely bypasses rigid AP
 
 ## 🚀 Local Deployment Instructions
 To run this modular web app asset locally inside an isolated engineering sandbox, execute the standard dependencies commands in your terminal workspace prompt:
-
 pip install streamlit requests beautifulsoup4 pandas openpyxl
 streamlit run app.py
 
